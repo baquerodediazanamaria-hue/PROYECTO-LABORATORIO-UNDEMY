@@ -1,0 +1,81 @@
+{
+  "habitaciones": [
+    {
+      "numero": "101",
+      "tipo": "SIMPLE",
+      "precio_por_noche": 50.0,
+      "capacidad": 1,
+      "disponible": true,
+      "descripcion": "Habitación simple con cama individual y baño privado",
+      "caracteristicas": ["WiFi", "TV", "Baño privado"]
+    },
+    {
+      "numero": "102",
+      "tipo": "SIMPLE",
+      "precio_por_noche": 50.0,
+      "capacidad": 1,
+      "disponible": true,
+      "descripcion": "Habitación simple con vista al jardín",
+      "caracteristicas": ["WiFi", "TV", "Baño privado"]
+    },
+    {
+      "numero": "201",
+      "tipo": "DOBLE",
+      "precio_por_noche": 80.0,
+      "capacidad": 2,
+      "disponible": true,
+      "descripcion": "Habitación doble con cama matrimonial",
+      "caracteristicas": ["WiFi", "TV", "Minibar", "Balcón"]
+    },
+    {
+      "numero": "202",
+      "tipo": "DOBLE",
+      "precio_por_noche": 85.0,
+      "capacidad": 2,
+      "disponible": true,
+      "descripcion": "Habitación doble con dos camas",
+      "caracteristicas": ["WiFi", "TV", "Minibar", "Vista ciudad"]
+    },
+    {
+      "numero": "203",
+      "tipo": "TRIPLE",
+      "precio_por_noche": 110.0,
+      "capacidad": 3,
+      "disponible": true,
+      "descripcion": "Habitación triple familiar",
+      "caracteristicas": ["WiFi", "TV", "Minibar", "Sofá cama"]
+    },
+    {
+      "numero": "301",
+      "tipo": "SUITE",
+      "precio_por_noche": 150.0,
+      "capacidad": 4,
+      "disponible": true,
+      "descripcion": "Suite con sala de estar y jacuzzi",
+      "caracteristicas": ["WiFi", "TV", "Minibar", "Jacuzzi", "Sala"]
+    },
+    {
+      "numero": "302",
+      "tipo": "SUITE",
+      "precio_por_noche": 160.0,
+      "capacidad": 4,
+      "disponible": true,
+      "descripcion": "Suite Premium con vista panorámica",
+      "caracteristicas": ["WiFi", "TV", "Minibar", "Terraza"]
+    },
+    {
+      "numero": "401",
+      "tipo": "PRESIDENCIAL",
+      "precio_por_noche": 300.0,
+      "capacidad": 6,
+      "disponible": true,
+      "descripcion": "Suite Presidencial con comedor privado",
+      "caracteristicas": ["WiFi", "TV", "Minibar", "Jacuzzi", "Sala", "Comedor", "Terraza"]
+    }
+  ],
+  "reservas": [],
+  "contadores": {
+    "cliente": 1,
+    "reserva": 1
+  }
+}
